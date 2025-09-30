@@ -1,0 +1,5 @@
+{
+  "name": "Gemini To-Do Sparkle",
+  "description": "A to-do list application that uses AI to celebrate your accomplishments. Add tasks with specific times, get reminded when they're due, and receive a fun, personalized celebration message from Gemini when you complete them.",
+  "requestFramePermissions": []
+}
